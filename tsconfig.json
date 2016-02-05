@@ -18,5 +18,14 @@
     "filesGlob": [
         "client/**/*.ts",
         "!./node_modules/**/*.ts"
-    ]
+    ],
+    "files": [
+        "client/scripts/app/bootstrap.ts",
+        "client/scripts/app/components/main/main.component.spec.ts",
+        "client/scripts/app/components/main/main.component.ts",
+        "client/scripts/app/vendor.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
 }
