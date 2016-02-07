@@ -8,5 +8,5 @@ import {Component} from 'angular2/core';
     template: require('./main.component.html')
 })
 export class MainComponent {
-
+  
 }

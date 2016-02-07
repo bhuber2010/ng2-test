@@ -17,7 +17,7 @@
     ],
     "filesGlob": [
         "client/**/*.ts",
-        "!./node_modules/**/*.ts"
+        "!node_modules/**/*.ts"
     ],
     "files": [
         "client/scripts/app/bootstrap.ts",
