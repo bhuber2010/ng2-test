@@ -23,6 +23,8 @@
         "client/scripts/app/bootstrap.ts",
         "client/scripts/app/components/main/main.component.spec.ts",
         "client/scripts/app/components/main/main.component.ts",
+        "client/scripts/app/components/test/test.component.spec.ts",
+        "client/scripts/app/components/test/test.component.ts",
         "client/scripts/app/vendor.ts"
     ],
     "atom": {
